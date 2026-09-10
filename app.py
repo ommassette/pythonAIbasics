@@ -16,7 +16,7 @@ output = age #redifining the variable output to age
 age = (input("Enter your age: "))
 output = age  # taking input from user and storing it in the variable age
 
-output = type(age)  # checking the type of the variable age
+output = type(output)  # checking the type of the variable age
 
 #Standard output: obligated to return or give an output to the user.
 print(age)  # Output: 25
